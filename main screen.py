@@ -544,7 +544,7 @@ def admin():
                 messagebox.showerror("Error","Date not correct!")
                 return
 
-            mc=mysql.connector.connect(host='localhost',user='root',passwd='manoj144',database='project')
+            mc=mysql.connector.connect(host='localhost',user='*****',passwd='*****',database='*****')
             c=mc.cursor()
     
             c.execute("SELECT * FROM DOC WHERE SPECILIZATION = '{}'".format(dep))

@@ -35,7 +35,8 @@ This project is a basic Hospital Management System developed as a final-year hig
 
 ## Screenshots
 
-*(Add application screenshots here)*
+![image](https://github.com/user-attachments/assets/62e1404d-ca41-4c6b-a638-5105c9ef0853)
+
 
 ## Future Improvements
 

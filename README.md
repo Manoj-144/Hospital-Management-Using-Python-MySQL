@@ -1,8 +1,8 @@
-##Hospital Management System
+##Hospital Management System##
 
 This project is a basic Hospital Management System developed as a final-year high school project. The code may be amateurish, reflecting early learning in programming, and is intended as an introductory example for public use. The system uses Tkinter for the user interface and MySQL for backend database management, offering essential tools to manage hospital records.
 
-#Features
+Features
 User Authentication: Login functionality for secure access.
 Responsive GUI: Developed with Tkinter, including custom background and logo images.
 Database Management: Uses MySQL to store and manage hospital records.
